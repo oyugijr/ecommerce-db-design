@@ -48,8 +48,6 @@ This project involves designing an Entity-Relationship Diagram (ERD) and buildin
     ```bash
     mysql -u your-username -p < ecommerce.sql
     ```
-4. Use dbdiagram.io to view the ERD:
-    - [Link to ERD on dbdiagram.io](https://dbdiagram.io/)
 
 ## 📑 License
 
